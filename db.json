@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "adminuser",
+      "email": "AS@gmail.com",
+      "status": "zXDCFBH",
+      "password": "demoapp123"
+    },
+    {
+      "id": "1",
+      "name": "AdminUser1",
+      "email": "nu@gmil.com",
+      "status": "active",
+      "password": "demoapp123"
+    },
+    {
+      "id": "5",
+      "name": "anu",
+      "email": "anu@gmil.com",
+      "status": "active",
+      "password": "an12"
+    }
+  ]
+}
